@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="purchased" table="x_449987_shopping_shopping_item" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purchased</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_449987_shopping_shopping_item</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-29 18:20:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41c42c3f1b721010ac8aff37dc4bcbba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-29 18:27:39</sys_updated_on>
+            <value>false</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purchased</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_449987_shopping_shopping_item</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-29 18:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6452c3f1b721010ac8aff37dc4bcbd6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-29 18:27:45</sys_updated_on>
+            <value>true</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>purchased</element>
+            <name>x_449987_shopping_shopping_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-29 18:20:07</sys_created_on>
+            <sys_id>89c42c3f1b721010ac8aff37dc4bcbba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>purchased</sys_name>
+            <sys_package display_value="Shopping List" source="x_449987_shopping">365e903b1b321010ac8aff37dc4bcb13</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">365e903b1b321010ac8aff37dc4bcb13</sys_scope>
+            <sys_update_name>sys_choice_x_449987_shopping_shopping_item_purchased</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-29 18:20:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
